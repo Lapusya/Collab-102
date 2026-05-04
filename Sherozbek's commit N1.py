@@ -5,3 +5,5 @@ for i in range(rows):
     for x in range(columns):
         print(symbol, end=" ")
     print()
+
+print("Something new")
